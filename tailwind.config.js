@@ -10,7 +10,8 @@ module.exports = {
       colors: {
         'nav-color': '#1E2235',
         'default-color': '#515050',
-        'span-color': '#ABADC6'
+        'span-color': '#ABADC6',
+        'border-color': '#BBBBBB',
       }
     },
   },
